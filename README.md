@@ -24,6 +24,7 @@ Concepts covered in this project include JavaScript, HTML, CSS, session storage,
 - Created registration functionality which allows user to register new accounts by posting new user object in database
 - News section contains ability to post new article/edit existing articles/delete existing articles in database via forms on DOM
 - Added functionality to only show news articles belonging to logged in user
+- In charge of site design (not a graphic designer, please be kind)
 
 ## Gavin Swofford
 - Created messages section
