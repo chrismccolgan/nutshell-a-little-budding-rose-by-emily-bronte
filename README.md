@@ -1,8 +1,8 @@
 # Team A Little Budding Rose's Group Project: Nutshell
 
-Team A Little Budding Rose was tasked with creating a social media app using the criteria listed below and under the issues tab.
+Team A Little Budding Rose was tasked with creating a social media app with CRUD functionality using the criteria listed below and under the issues tab.
 
-Concepts covered in this project include JavaScript, HTML, CSS, session storage, creating a JSON database, posting/editing/deleting the data in the database with forms and event listeners on the DOM, and associating that data with a userID.
+Concepts covered in this project include: session storage, creating a JSON database, CRUD functionality with API fetch calls to JSON server, associating that data with a userID, JavaScript, HTML, CSS.
 
 ![Nutshell_homePage](https://i.imgur.com/uvBqdNb.png)
 ![Nutshell_logInPage](https://i.imgur.com/Be1e4c7.png)
